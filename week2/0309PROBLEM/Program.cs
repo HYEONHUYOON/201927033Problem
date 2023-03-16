@@ -9,6 +9,7 @@
             threadESC.Start();
 
             RomaNum a = new RomaNum();
+            ArabicNum b = new ArabicNum();
 
             bool isRight;
             int receiveVal;
@@ -34,12 +35,17 @@
                         a.AtorF(receiveVal);
                 }
                 //대문자영어인지
-                else if (a.isBig(s))
+                else if (b.isBig(s))
                 {
-                    a.RtoaF(s);
+                    //if (b.checkRom(s)==false)
+                    //{
+                    //    Console.WriteLine("잘못 입력하였습니다.2");
+                    //}
+                    //else
+                        b.RtoaF(s);
                 }
                 else
-                    Console.WriteLine("다시 입력");
+                    Console.WriteLine("잘못 입력하였습니다.");
             }
         }
 
