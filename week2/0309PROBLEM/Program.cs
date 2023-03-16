@@ -17,6 +17,7 @@
 
             while (true)
             {
+                Console.Write("입력하시오 : ");
                 s = Console.ReadLine();
                 isRight = int.TryParse(s, out receiveVal);
 

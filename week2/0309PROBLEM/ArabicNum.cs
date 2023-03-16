@@ -15,7 +15,7 @@ namespace _0309PROBLEM
                 {'M', 1000}
         };
 
-        //올바른 로마자인지
+        ////올바른 로마자인지
         //public bool checkRom(string origin)
         //{
         //    string s = origin;
@@ -31,12 +31,10 @@ namespace _0309PROBLEM
         //    {
         //        if (vld.Contains(c))
         //        {
-        //            Console.WriteLine(c);
         //            vldcount++;
         //        }
         //        else if (ixcm.Contains(c))
         //        {
-        //            Console.WriteLine(c);
         //            ixcmcount++;
         //        }
         //    }
@@ -166,7 +164,7 @@ namespace _0309PROBLEM
                 Console.WriteLine("잘못입력함");
                 return 0;
             }
-            Console.WriteLine(resultV);
+            Console.WriteLine("결과 :  "+resultV); 
 
             return resultV;
         }
