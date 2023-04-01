@@ -1,0 +1,15 @@
+C:\Users\윤현후\source\repos\bfs\bfs\bin\Debug\net7.0\bfs.exe
+C:\Users\윤현후\source\repos\bfs\bfs\bin\Debug\net7.0\bfs.deps.json
+C:\Users\윤현후\source\repos\bfs\bfs\bin\Debug\net7.0\bfs.runtimeconfig.json
+C:\Users\윤현후\source\repos\bfs\bfs\bin\Debug\net7.0\bfs.dll
+C:\Users\윤현후\source\repos\bfs\bfs\bin\Debug\net7.0\bfs.pdb
+C:\Users\윤현후\source\repos\bfs\bfs\obj\Debug\net7.0\bfs.csproj.AssemblyReference.cache
+C:\Users\윤현후\source\repos\bfs\bfs\obj\Debug\net7.0\bfs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\윤현후\source\repos\bfs\bfs\obj\Debug\net7.0\bfs.AssemblyInfoInputs.cache
+C:\Users\윤현후\source\repos\bfs\bfs\obj\Debug\net7.0\bfs.AssemblyInfo.cs
+C:\Users\윤현후\source\repos\bfs\bfs\obj\Debug\net7.0\bfs.csproj.CoreCompileInputs.cache
+C:\Users\윤현후\source\repos\bfs\bfs\obj\Debug\net7.0\bfs.dll
+C:\Users\윤현후\source\repos\bfs\bfs\obj\Debug\net7.0\refint\bfs.dll
+C:\Users\윤현후\source\repos\bfs\bfs\obj\Debug\net7.0\bfs.pdb
+C:\Users\윤현후\source\repos\bfs\bfs\obj\Debug\net7.0\bfs.genruntimeconfig.cache
+C:\Users\윤현후\source\repos\bfs\bfs\obj\Debug\net7.0\ref\bfs.dll
